@@ -36,5 +36,5 @@ Resize your splits in Vim:
 • ctrl-w &lt; – decrease
 ```
 ## To do
-- [ ] Fetch tweets without the need of credentials (if possible).
+- [ ] Fetch tweets without the need of key credentials (if possible).
 - [ ] Pretty-print the output and better formatting of it.
